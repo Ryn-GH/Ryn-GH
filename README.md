@@ -3,6 +3,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tomorrow&size=30&pause=1000&center=true&vCenter=true&width=180&height=30&lines=Rayan+O." alt="Typing SVG" /></a>
 </div>
 
+---
+
 Étudiant en **BUT Informatique** à l'IUT Créteil-Vitry (UPEC), je me définis comme un **Software Engineer** polyvalent avec une approche **Fullstack**. Mon expertise s'étend du développement **Web** et **Mobile** à la conception d'applications **Desktop** de haute performance. Passionné par l'optimisation et le **bas-niveau**, je cherche toujours à comprendre et maîtriser les couches profondes du logiciel.
 
 Je combine une solide expérience en **C# .NET** pour les solutions multiplateformes avec une maîtrise des langages système comme le **C** et le **Rust** pour garantir efficacité et fiabilité.

@@ -36,6 +36,12 @@ Plateforme d'analyse environnementale avec **API REST Laravel** et Frontend dyna
 * Optimisation des performances via un système de cache (Hit/Miss).
 * Visualisations cartographiques interactives (Leaflet) et statistiques (Chart.js).
 
+#### ![Web](https://img.shields.io/badge/-Web-FF2D20?style=flat-square) **Optimisation des stations Velib' en IDF**
+Application Web permettant de visualiser une carte des stations Vélib' optimisée selon des critères géographiques.
+* Analyse de données massives via Python (NumPy, SciPy, Folium).
+* Production de visualisations géographiques interactives et optimisation algorithmique des emplacements.
+
+
 #### ![System](https://img.shields.io/badge/-System-00599C?style=flat-square) **Infrastructure & Fiabilité Système**
 Développement d'outils système sécurisés et gestion d'infrastructures réseau.
 * Utilisation de **Rust** pour garantir la sécurité mémoire et la fiabilité des threads face aux vulnérabilités classiques du C.

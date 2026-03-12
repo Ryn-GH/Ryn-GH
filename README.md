@@ -31,7 +31,7 @@ Application de monitoring système haute performance en **C# / WPF**.
 * Utilisation de **LibreHardwareMonitor** pour l'interfaçage avec les sondes Ring 0.
 * Architecture **MVVM** et gestion du multithreading asynchrone pour une UI fluide à 60 FPS+.
 
-#### ![Web](https://img.shields.io/badge/-Web-FF2D20?style=flat-square) **Maritime Dashboard**
+#### ![Web](https://img.shields.io/badge/-Web-FF2D20?style=flat-square) **[Maritime Dashboard](https://github.com/Ryn-GH/Sae301)**
 Plateforme d'analyse environnementale avec **API REST Laravel** et Frontend dynamique.
 * Optimisation des performances via un système de cache (Hit/Miss).
 * Visualisations cartographiques interactives (Leaflet) et statistiques (Chart.js).
